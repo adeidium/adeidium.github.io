@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://adeidium.github.io/sitemap.html.gz
+Sitemap: https://adeidium.github.io/app/sitemap.html.gz
+Sitemap: https://adeidium.github.io/assets/sitemap.html.gz
+Sitemap: https://adeidium.github.io/css/sitemap.html.gz
+Sitemap: https://adeidium.github.io/includes/sitemap.html.gz
+Sitemap: https://adeidium.github.io/item/sitemap.html.gz
+Sitemap: https://adeidium.github.io/src/sitemap.html.gz
